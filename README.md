@@ -2,6 +2,10 @@
 
 A complete, polished Klondike solitaire game in **one self-contained HTML file** — no build step, no dependencies, no external assets.
 
+<p align="center">
+  <a href="https://somphol.github.io/klondike-solitaire/"><strong>▶ Play it online</strong></a>
+</p>
+
 ![Klondike Solitaire](screenshot.png)
 
 ## Play

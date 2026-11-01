@@ -98,6 +98,26 @@ Score never drops below zero. Draws, recycles, and card moves all count as moves
 
 ![Victory](screenshot-win.png)
 
+## Contributing
+
+Contributions are welcome — bug reports, feature ideas, accessibility improvements, and
+documentation fixes alike. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and the
+[Code of Conduct](CODE_OF_CONDUCT.md) before opening a pull request.
+
+- **Found a bug?** [Open a bug report](https://github.com/somphol/klondike-solitaire/issues/new?template=bug_report.yml)
+- **Have an idea?** [Request a feature](https://github.com/somphol/klondike-solitaire/issues/new?template=feature_request.yml)
+- **Found a vulnerability?** Please follow [SECURITY.md](SECURITY.md) and report it privately.
+
+## Documentation
+
+| Document | Purpose |
+| --- | --- |
+| [README.md](README.md) | Overview, setup, controls, and architecture |
+| [CHANGELOG.md](CHANGELOG.md) | Notable changes and release history |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Local workflow, constraints, and pull request checks |
+| [SECURITY.md](SECURITY.md) | Supported versions and private vulnerability reporting |
+| [LICENSE](LICENSE) | MIT licence |
+
 ## License
 
 MIT © 2026 Somphol Boonjing

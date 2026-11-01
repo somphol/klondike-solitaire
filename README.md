@@ -1,12 +1,21 @@
+<div align="center">
+
+<img src="docs/social-card.png" alt="Klondike · Solitaire — The Classic Card Game, Reimagined" width="100%" />
+
 # Klondike · Solitaire
 
-A complete, polished Klondike solitaire game in **one self-contained HTML file** — no build step, no dependencies, no external assets.
+**The Classic Card Game, Reimagined**
 
-<p align="center">
-  <a href="https://somphol.github.io/klondike-solitaire/"><strong>▶ Play it online</strong></a>
-</p>
+A complete, polished Klondike solitaire game in one self-contained HTML file — drag, drop, auto-play, and a satisfying win animation.
 
-![Klondike Solitaire](screenshot.png)
+[![Live demo](https://img.shields.io/badge/live_demo-online-22c55e?style=flat-square)](https://somphol.github.io/klondike-solitaire/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](LICENSE)
+
+**[Try it live →](https://somphol.github.io/klondike-solitaire/)**
+
+</div>
+
+---
 
 ## Play
 
